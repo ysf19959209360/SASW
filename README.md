@@ -1,4 +1,4 @@
-# A Novel Perspective on Low-Light Image Enhancement: Leveraging Artifact Regularization and Walsh-Hadamard Transform (SASW)
+<img width="1140" height="1140" alt="image" src="https://github.com/user-attachments/assets/1867fcde-d677-4cd9-96c7-5ee6a07ded54" /># A Novel Perspective on Low-Light Image Enhancement: Leveraging Artifact Regularization and Walsh-Hadamard Transform (SASW)
 
 <a href="https://werring.wu.github.io">Weilin Wu*,</a> Shifan Yang, Qizhao Lin, XingHong Chen, Kunping Yang, Jing Wang and Guannan Chen <sup>✉️</sup>
 
@@ -197,8 +197,7 @@ We also provide download links for LIME, NPE, MEF, DICM, and VV datasets that ha
 
 ## 3. Testing
 
-
-Download our models from [Baidu Disk](https://pan.baidu.com/s/1XVMJ8NjPUklUnrh_8acMug?pwd=th36) (code: `th36`) or [Google Drive](https://drive.google.com/drive/folders/1kEA3kzAVOub0XEoEa5MnlKBy32z6YaBw?usp=drive_link). Any deviation between some weights and the paper’s values stems from better results obtained in later optimizations.
+Download our models from [Baidu Disk](https://pan.baidu.com/s/12EP-EjtVMR3YDarO2NfvtA?pwd=54xn) (code: `54xn`) or [Google Drive](https://drive.google.com/drive/folders/1kEA3kzAVOub0XEoEa5MnlKBy32z6YaBw?usp=drive_link). Any deviation between some weights and the paper’s values stems from better results obtained in later optimizations.
 We use RetinexFormer as an example. For other models, please refer to ([RetinexMamba](https://github.com/YhuoyuH/RetinexMamba), [HWMNet](https://github.com/FanChiMao/HWMNet), [SNR-Net](https://github.com/dvlab-research/SNR-Aware-Low-Light-Enhance), [WaveMamba](https://github.com/AlexZou14/Wave-Mamba) and [FourLLIE](https://github.com/wangchx67/FourLLIE).
 
 ```shell
